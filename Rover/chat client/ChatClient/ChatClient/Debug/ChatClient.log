@@ -1,0 +1,6 @@
+﻿  ArduinoSerial.cpp
+c:\users\jacob\documents\cansat 2019\final\ground station\pc\groundstationpc\groundstationpc\arduinoserial.cpp(150): warning C4101: 'SerialDeviceErrors': unreferenced local variable
+  Source.cpp
+  Generating Code...
+c:\users\jacob\documents\cansat 2019\final\ground station\pc\groundstationpc\groundstationpc\arduinoserial.cpp(173): warning C4715: 'ArduinoSerial::AllignRXSerial': not all control paths return a value
+  ChatClient.vcxproj -> C:\Users\jacob\Documents\CanSat 2019\Final\Rover\chat client\ChatClient\Debug\ChatClient.exe
